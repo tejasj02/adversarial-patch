@@ -4,5 +4,5 @@ In this repo, I've includid a ipynb file where you can view my adversarial patch
 
 ## How to Run
 
-Run cell by cell, use GPU, and all installations needed are within the colab notebook.
+Run cell by cell, use GPU, and all installations needed are within the colab notebook. All files should be downloaded via running cells except for emoji, please download that image and place it in your colab directory.
 Issue with rendering, please download and open in vscode, then can click colab button.
