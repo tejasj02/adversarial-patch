@@ -1,6 +1,6 @@
 # Adversarial Patch (Devil Patch)
 
-In this repo, I've includid a ipynb file where you can view my adversarial patch construction. I took the devil emoji to mask the patch and trained and tested on a subset of imagenet.
+In this repo, I've includid a ipynb file where you can view my adversarial patch construction. I took the devil emoji to mask the patch and trained and tested on a subset of imagenet. The pixels of the patch were trained, hence its location is randomly placed on the image.
 
 ## How to Run
 
